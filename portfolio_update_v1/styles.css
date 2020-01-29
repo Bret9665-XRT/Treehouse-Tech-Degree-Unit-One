@@ -188,7 +188,6 @@ a.social:hover {
     padding: 0 30px;
   }
 
-
   main {
     padding-top: 20px;
   }
@@ -202,5 +201,12 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+
+.hobbiepics {
+    max-height: 200px;
+    max-width: 250px;
+    padding: 5px;
+    margin: 5px;
+}
 
 }
