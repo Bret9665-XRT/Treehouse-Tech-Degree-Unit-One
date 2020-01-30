@@ -74,7 +74,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(3,2);
 }
 .tag {
   background-color: #efefef;
@@ -149,7 +149,7 @@ a.social {
   height: 30px;
   background-size: 30px 30px;
   opacity: .4;
-  transition: all .5s;
+  transition: all .2s;
 }
 a.twitter {
   background-image: url(images/twitter.svg);
@@ -203,10 +203,10 @@ a.social:hover {
   }
 
 .hobbiepics {
-    max-height: 200px;
-    max-width: 250px;
-    padding: 5px;
-    margin: 5px;
+    max-height: 25em;
+    max-width: 30em;
+    padding: 1em;
+    margin: 1em;
 }
 
 }
